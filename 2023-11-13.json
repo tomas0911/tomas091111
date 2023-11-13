@@ -1,0 +1,26 @@
+{
+  "name": "Winifred Mathis",
+  "age": 51,
+  "address": {
+    "street": "Edis Mill",
+    "city": "Inadwa",
+    "state": "ID",
+    "zip": "79984"
+  },
+  "contact": {
+    "phone": "(589) 943-9113",
+    "servicePhone": "800247653"
+  },
+  "birthday": "2002-09-15T08:50:52.123Z",
+  "ip": "48.53.28.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Lijvekilu haizalo ditfehe welow ejivolap igo bofvuac ozazucug lupucbav jad sugaviuc sag lav. Asauvdiw dos omsiwfi kut wesbawac doggutari sa odami ka rovek teknos wewetcut togen. Ujvewip salvuctad di gihnunri ledni ewepaw tiz coake casbaj vis gapci hifcuhil widob nolekpe viribcar gede.",
+    "bio": "Nakud recvecam uvoep asezoka ja kib lartu uvoiv igeribwah jiga daiwi ija. Tukdigu nimkag feval has corzedu gi zo fusah gammok wezjuj nieh wugahzi. Ko ta cepu ujoziiwe or voh bitsihaw harueb bijiw foduk ja fermu hadojet hus zobho umuizu. Cowimu he esuwe wa izeguj udawo wumibvon gop davcow gebe lobol rorosiv ve fiz du rodvadi ro he."
+  },
+  "apiKey": "d6e6ada78361c302619dc7862b2a21c362dfaf7fbe77069cc368497915eb5a9c",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
