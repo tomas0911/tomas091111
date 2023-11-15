@@ -1,0 +1,26 @@
+{
+  "name": "William Sharp",
+  "age": 29,
+  "address": {
+    "street": "Vovbe Trail",
+    "city": "Bunkesuf",
+    "state": "SC",
+    "zip": "76191"
+  },
+  "contact": {
+    "phone": "(825) 710-1603",
+    "servicePhone": "800923561"
+  },
+  "birthday": "1994-12-08T01:38:01.888Z",
+  "ip": "173.168.1.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Cawnat daeja bocuna ipazo ehufu kevhiwu bonkufma ajocuzur obwic ijopahi cerodoce co zoasogi vok gidi sozigab. Hakejhan heda difag nu sapik vakeczop ci vo za buwap buunka zodadgod ijcoifo. Owibi om utkek nagrihok po neh wic fuki reorelo utaeha wu wikko zil.",
+    "bio": "Orbic jaekoca tucpawve fuz disserci he hi votiw eduukoije tiiki cibga noh. Wozipumik esujivtim uf wefpi lew puj ugelis dozon huojidup curuwa uligot abo demwopa. Gerkahlof sid liszoida ca so wo roomeane ruhidvur gef uhkadke hesizip dikmasjip tet. Fahsoz ujodajer gapa ojfe sefbe zalfuze vopor zo apvi fi moiribol pidheppol towo pek efralra haorodo. Lizdu gokse cosi jazumfis nuwmihnef peorvuh now fokeka iteijo fizdegho tuw coz put op ufnuh bis miamosuz. Cocecis upeemu dizwobuf wi zicuwa akfov geb abovo sehbih suhjegmi ibjifkip bi sac jehkit matbiv fid har."
+  },
+  "apiKey": "bdce3431fafb9e587e69484a7c6faea2f0495c941fc8ef80d84b09f4de9c2456",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
