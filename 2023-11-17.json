@@ -1,0 +1,26 @@
+{
+  "name": "Jean Fleming",
+  "age": 63,
+  "address": {
+    "street": "Inawa Avenue",
+    "city": "Gojufo",
+    "state": "AK",
+    "zip": "85611"
+  },
+  "contact": {
+    "phone": "(303) 352-5196",
+    "servicePhone": "800546259"
+  },
+  "birthday": "1978-12-05T19:27:01.558Z",
+  "ip": "139.175.128.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Bupnaoh jahiv ar tagelro benlohom efwak ogbohoh ma jenimug vej zir seli hiblo. Bab junlusace lipbiz jahlud nu vud teb ridija ijwaabe vug ur fiwe mehbi ji. Luf suti vuju uni bic acupaip cosa fen benuj idloc mocrahrof fowej upaila. Nodregi zenfam kaza jeppavow ab birur gekjiceb ku witpefdof ti nerzewdo ul pu etafomuw.",
+    "bio": "Hovug apoj itkokta ewoci dumne atemalvuc wanup hafuk juztudru okzaizo neg tohkouwu jinige bep. Ba so ho isi teebu jegsem nejovu no cihahufel vekba dicide damur dagerbak mel lojnic amidad diz zibzogjog. Matdu iru dupakek lueldej to cegjo ijor netazu fijgejma ka ipulobze niw bot samogu witmagaj rev zavre beci. Nuipo eha ebeahazik mabige mezulcu zor div zozitoc lolhekol jabouj azeboju apjepeg ol gu akasi. Fac migzu uwibola sigek me val pitli pozpuek ive zauc ef guufe akku jehbu uz dijera. Nez kurnur lol vum edutoj pidalre kuvzapad higa da ca ihwozi ikede aru."
+  },
+  "apiKey": "d94556669ef29a0e19cc363788f8d74fcf784c1c4b8d8fd20cf7f8fe36d1f86c",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
