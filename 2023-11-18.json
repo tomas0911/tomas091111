@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Moody",
+  "age": 28,
+  "address": {
+    "street": "Hendi Park",
+    "city": "Otararwi",
+    "state": "HI",
+    "zip": "73560"
+  },
+  "contact": {
+    "phone": "(358) 806-6434",
+    "servicePhone": "800216711"
+  },
+  "birthday": "2004-04-26T08:26:06.383Z",
+  "ip": "68.176.109.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Dabirvo iniumugat zadli cehubo mejol akhufos usosucgis gaf jikiwaw robaac nonagmas sara wurermac gefelowa na lu es. Juzov loku edikuan kaz topdikzo gakuc zaja bug ji sizudo huucwe sugep ano lis zi fimunti nabmor ucoet. Fi zardal vafvav viha noghowwuh bap pel coz bic fedcowa ojelon dabtocu ku raup.",
+    "bio": "Pukub napagsos ibbid nu ga ku bonwicfem subjoda ceofe wiwavdun in sagupos da kefwodo jelef har woota nufbohe. Niluk vehnazru if cunuta lizvuh uleah uz koasekih zoil furmosa idap op pur wepa du. Jahag kiza nem sapeujo timna juguzbo ap jo ta zosfeblib buhco kutma ecuvofoj begisodar haohe amub nedef zo."
+  },
+  "apiKey": "226cbf45e324d21a3fa71e9b65d860d42402f08bf05dd1f9f4724cefce4883e9",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
