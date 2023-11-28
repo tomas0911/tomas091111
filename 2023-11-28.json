@@ -1,0 +1,26 @@
+{
+  "name": "Mike Barber",
+  "age": 31,
+  "address": {
+    "street": "Useco Square",
+    "city": "Sunatbe",
+    "state": "KY",
+    "zip": "33775"
+  },
+  "contact": {
+    "phone": "(634) 270-8075",
+    "servicePhone": "800675896"
+  },
+  "birthday": "2006-08-20T13:17:25.070Z",
+  "ip": "8.49.90.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Sefa anore ful valovjuc hounimu ewicu aj kaducot ba forare weg seebu ju so sac. Cekapha otvisug ris huloc vowibev ru ivuabiku jiso za senutken jukisu hibiawu pidef rekre saico. Afivul ga vudu rifalgan fa wes huzfug jo tinfipgah onavap tomim janup re ef opihu.",
+    "bio": "Jelmuoh rooc ir feziho cec vartuz arawef gacahro ipekebi hed purbe hiko leuhu jezwifeh adageej ga. Nelvup obze pe ke du tusgesa kegto gawah fohim ekuto kapoj bahid roimoew. Cobkisfi sowruv li geke akcezo remon ukki cew vespefez codwud isunelotu ute ho jiphacjuj saja olenadnet. Gec ligremjez bag ojfe orcibe zehavcob ew mom jafdiwloc perosnus mursiz gelu fer takemwec ti ow lugvebsi."
+  },
+  "apiKey": "2ddd2fb0a3a3e1c27e69c8b9afdb7b332cac709f1a63ae1873ee1411603464ad",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
