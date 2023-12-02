@@ -1,0 +1,26 @@
+{
+  "name": "Eva Ramirez",
+  "age": 43,
+  "address": {
+    "street": "Nuwcaf Mill",
+    "city": "Juarlok",
+    "state": "IA",
+    "zip": "89030"
+  },
+  "contact": {
+    "phone": "(502) 351-9808",
+    "servicePhone": "800884328"
+  },
+  "birthday": "1983-04-03T04:00:24.125Z",
+  "ip": "31.218.194.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibo wimbu mi lumpot zuput raceb ibgogdiz do zeget zinuso wuw zimo enabusose. Nusnag amuufi tigi pof aweh ere ice itu kec jafor ujiva sepumnam pup. Hegog depvogef hosugsoc wedvi tojke norguh ki ge rehnanif atiha ilcer vedha zogo bem zuevefu jeteepo utivusamu uputecal.",
+    "bio": "Apifi vid fewcod gizfiki leg nuvahu hahozujuc pudub pewap zidaszuf mahijic so bun. Rig kasuj koiwair jor ra rislec zanoze fer zisahief bipso tazetuf ce zic vo muwzut. Mal kad ineduh jab ba be enu vagte wijtaab mi uz poronafid aneecu jagizpuf ludsebli gomluh."
+  },
+  "apiKey": "155e9b0913cc7c1c922ff609aa7bd81ccc1922731d0b83625c9913d00657c55f",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
