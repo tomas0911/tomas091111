@@ -1,0 +1,26 @@
+{
+  "name": "Sam Graves",
+  "age": 22,
+  "address": {
+    "street": "Wuhibi Circle",
+    "city": "Rituta",
+    "state": "VA",
+    "zip": "66066"
+  },
+  "contact": {
+    "phone": "(304) 979-5040",
+    "servicePhone": "800339574"
+  },
+  "birthday": "1982-06-03T17:46:00.441Z",
+  "ip": "162.9.27.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Emiko davci hamokig fosaccan onu rocna avpekviw cupije suzar cevgasli vezugla jowaugi sifege hepanevo ufov eleurnob je sozom. Ihkaok ew giwa dug ohisokhe ki nuacecor etijirod ozhe aroszoc ivdehrib ulepi mod rosu diluhoima jutze. Irebemaki aso vohfa tuk ho ab ka re ced sak hu bicad nudaz ac. Sujnoki zovdaafu anti jeubowo atbe ne kassanviw rila ra kehpe jif orpucu ninefe. Ude cok bacomva koz vi fel vupvathij bunutive peruvdi timulovu not alweb ikihi.",
+    "bio": "Zibleni rujder nujsid upzok efako lodalfel cucheeno zipka epuve vafbowim nap nekanu fu. Lid ruuna je eg onebe fipecbe iczi ram picinubi mumiv vifdo uf wuje ne nuhki rubpa. Jok ejadup ced it favzobu cejpe gac tidizon sofnuddu vufez sedosbe vaovu."
+  },
+  "apiKey": "e0589b759d13e0689db38aa9552e0c46fdf5b231afd4b97116bd85b168a43031",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
