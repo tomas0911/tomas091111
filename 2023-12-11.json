@@ -1,0 +1,26 @@
+{
+  "name": "Maurice Carr",
+  "age": 55,
+  "address": {
+    "street": "Mogej Extension",
+    "city": "Huimsef",
+    "state": "SD",
+    "zip": "79113"
+  },
+  "contact": {
+    "phone": "(315) 678-9479",
+    "servicePhone": "800512886"
+  },
+  "birthday": "1959-11-24T08:28:11.810Z",
+  "ip": "226.58.141.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Un en ezoni fek uc ticvof zehleofe mifwosjoz iz fi ru ew vun ki. Sohucaalo gucu zok nuvazas ovo roribu iv enabo vufif lu duz ci zuv. Begnagmof kom me worjanam mewofev nav wezlowol wasodve biwif puh saove bufgen fasamaz faro. Ino fotobi je hej zate rosul tozuru hijjepfe soacnoc cubasew inwokluk oz go necnis teruz kigdezew jamugout.",
+    "bio": "Oncem sul jijle we rufuji komosa arowvad fiwve mujufauve ipisa jawlijjas igruh. Hasji hazubecu ajan ivvisbo puhgibu jivik peje id worucon lufpe gefev ohgup metu vobu cel hi node cume. Celefcec huk lepu ge se emacok okzim zif huzhis kopsil piez osuciugu gowgitire bintingu begiz ta. Ul cub ijigikub al haspu zernidwe sob eviguapi ewarunzu ej etaruucu en newbelwuv wil torwazi uv tem. Nal gerpo madag lakfa bominejep enuewno worurcuk kemilu abimit heom firotih haf zehdemred sera sosrura. Lubkekdo tupo dagi vu buwde bifam fo tadanub po bozru zu nus mahkal tulfekfe jej madedlu."
+  },
+  "apiKey": "76928f7ff8b6d8e2d5623d02d725facd24eb5f98fd6ee4bdc7e6f04189991565",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
