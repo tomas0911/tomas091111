@@ -1,0 +1,26 @@
+{
+  "name": "Charles Pena",
+  "age": 19,
+  "address": {
+    "street": "Pafhu Loop",
+    "city": "Cegeav",
+    "state": "NE",
+    "zip": "27640"
+  },
+  "contact": {
+    "phone": "(267) 967-4827",
+    "servicePhone": "800847383"
+  },
+  "birthday": "1984-06-05T12:17:22.296Z",
+  "ip": "19.10.108.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Orewuca jivbolem rufte laeczo wa giv tutawor baro iswinu ri gizofo sonzo pi voeluudi. Hejoufo ebput wavma egaetave butoda zaz jap si fa nucdo bigpavjig fibig feg. Za nokkul cikbet do so lalpejuc fe hahbosep oko welez mona rom ze. Ka dov hirtefi ebze ucen vak ubculo mak le zatez liveef fejlokje anocek tucovki gi. Ec piwuzo imasiz tazagjo oc diaf kob hoefe ci ip duda mezoele ve duhhak piwemwac zun relobu kiwvinev. Hiraj pe uzvatem kofa ji widi ginih re ga ce vohciufa zuv. Bumlal fuzpouf kem mivjor pife fovi mu fi uwaov gi um nu epoomo busak irbevhaw ju.",
+    "bio": "Zepiga bawfis fuov sa ep tigne owumu kogo filkogu zok ba ogeja. Mew co jitu rora ale sizgi susulfaf dih se zavlo jizi titedoj pagbawu ruf rov jukecmi izvabo. Zumnul figahev kawiw ocbiriw pojnuda bavvi miwe mo nohi vul ka ero cooberu aku. Cuza wasof ubaje bucopeze ha jiozo husco masa eh nutfan epeappo iwwib aboelulig bilugpe."
+  },
+  "apiKey": "2ada25c069a53407705bf32d14684fd156e949471fd0e4fe43e42b1fd7f889ce",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
