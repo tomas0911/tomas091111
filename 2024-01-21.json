@@ -1,0 +1,26 @@
+{
+  "name": "Steve Pearson",
+  "age": 65,
+  "address": {
+    "street": "Vasu Way",
+    "city": "Wikhodo",
+    "state": "IN",
+    "zip": "22414"
+  },
+  "contact": {
+    "phone": "(869) 638-5253",
+    "servicePhone": "800319937"
+  },
+  "birthday": "1971-04-27T21:51:39.851Z",
+  "ip": "210.7.179.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Refzoiri wum afigir lirgoston utzoffut nihcuup kudibazu isu irtop ji eduedimo hed igapopu foh haw bijbil. Ovgo cispih hukuzbo badosfaz na mas kaeruiv loro geh su sodec febiwawoc vecih piodovim tano nelem. Ewzap namlizode bu nog oge japesim gaziwov hubaz lug gasgac ovipsi iflumzuk wes.",
+    "bio": "Ri catwepu sailila haju zase ewpove ontotwo nusga didfiabi mo bobo laplaf lug ro unca obokislit rof. Af taniso nuew inwommec fajtogu maego mudo zaluit cuoco erale jituburo talwu. Reef wovinap pezuk hiekeduk pob wesso sug set bazte pebzius zesco hogebiw bak bejvaviw zoazu rubezikes."
+  },
+  "apiKey": "a4babf4f9fa2bd999fb542a38401de1ac81fb02bc06d1a074de652c726821697",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
