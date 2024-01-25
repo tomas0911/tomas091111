@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Parks",
+  "age": 43,
+  "address": {
+    "street": "Cihin Pike",
+    "city": "Tuvpuko",
+    "state": "AK",
+    "zip": "97027"
+  },
+  "contact": {
+    "phone": "(653) 623-3591",
+    "servicePhone": "800455538"
+  },
+  "birthday": "1981-06-02T02:22:06.082Z",
+  "ip": "130.177.251.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Pengag siju biktak du ub iju mifok obeku gegog meguri heviwedu muwof. Kubwe sat fof wuahe ez upfahcu vecume efji go ti tew bin akgop ficcifka fal. Ado orezicuj ocevoz anewalan gonuma tomarfu hewteza jipme selo tunamoet nurmo pi la. Bu lec pes hohovej foazu polro wij esogeg kizsingil sonpapi atonop tuhdaehu. Emuga lu sidahati pafjim fol bak amuucwo vo ilucubvan likiag jordebap zor jibis fi nu.",
+    "bio": "Vagifob vivib hudrune wivpeci daclaeza tam lup sawib beviig muk gopjupoj feeg jiglik. Sip suzo kahzunvi venaih ni if jimpic sone sucrohgo gikire zo ej utalel rohvi wisjezov. Wones hewa ri mawir fehopibe risooje ti ozi zap neusanoc weksad vo."
+  },
+  "apiKey": "c69a4490d2ba00b6d25d9b56781eb169de2c6bf5d57da57e5f2669602dc3d36c",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
