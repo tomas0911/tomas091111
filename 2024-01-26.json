@@ -1,0 +1,26 @@
+{
+  "name": "Julia Hayes",
+  "age": 51,
+  "address": {
+    "street": "Seve Lane",
+    "city": "Hepjaome",
+    "state": "OK",
+    "zip": "88709"
+  },
+  "contact": {
+    "phone": "(203) 791-7700",
+    "servicePhone": "800212532"
+  },
+  "birthday": "1980-07-01T13:31:11.297Z",
+  "ip": "115.140.246.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Jocahiges iz fipmifove diag hi moij hogok taijuulu odwevu zo nujouku okrow po be vuk. Obgefek rapak wiv gur fegib cud vumpobe fesmab utoipfeh po izu hifvurdu kojrotafe wazago nubal pohcoker ajiju va. Ci rasvuj otiteka ejuwazek ru wazfa jesa nese emebehuj velfogpo lar co mezusa si tow pitutoz zec. Zojur tuglolces icodud jirun kim mapi kesahbi ekpa versav ciisu cusudab ce wosjiasu.",
+    "bio": "Mowafa ahi ijizahiw idaja daevmo celuuwi firagje gomeztud fanolenej dorukuip or javira oni zu tuk. Am suktaedi mova wisul tejozo wul geiwtob hutu ewo pihumi ozu capeklij lugunu tiseku eromob. Bi enku bode wasagza zaj kacem cipwa tipu mofos genku ezo vubu punmun pacnawfit gajeb. Dil apupap fet su epu dossom juhofmof ucidu aki jame am rajbofuw fe ohunoowu wes so fif fafpi. Athabbuz locnaj liecvat huv mob puj bin dac kab buked tezaro taz rabozu su pakhivguz conwesgol editaz zac."
+  },
+  "apiKey": "213eacca2389796d064bdf8e754388ec6e86d8ec80571bffb2c723c656593f59",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
