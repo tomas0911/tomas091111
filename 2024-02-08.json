@@ -1,0 +1,26 @@
+{
+  "name": "Jose Schmidt",
+  "age": 19,
+  "address": {
+    "street": "Libfit Grove",
+    "city": "Sozatol",
+    "state": "TX",
+    "zip": "25964"
+  },
+  "contact": {
+    "phone": "(586) 958-3035",
+    "servicePhone": "800233255"
+  },
+  "birthday": "1978-12-06T23:25:44.787Z",
+  "ip": "75.197.65.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Rur ce vu dulpaj hackebkuk udgedi napjibpe tuzumuv uh ezamobaw legehbeg magihwo ra darro zojam veden teuhu. Uso vafuero fat nocehul iziujjed heran dacu ve ti cawid amounbag kupja jabul kewsu do vabi. Eca ciabu agpa iro up kod juvivfi vo imu wibtup wi jabtezzi lecrohfe wipejgo main atawuoki du.",
+    "bio": "Dehe gahohi hibga jej moflekep gazzi vop ve vaka ameej vas tuzepuc sasaglif ippamtag nebuna oppoz mopuguk. Aru pociz voubeja ce se juc ewoge bumsup vigev sedibta fa gueto befu beda cadebosu guuvhon. Azuni vadaze ditlaomo ociriteb opri so hogarle robi umzug uj lu cundu cobit la bawad."
+  },
+  "apiKey": "5c5ce725ab6b92c7ac3c16e0ba6e91ee34ece6e1c8347ad1b47cf16d45ac340c",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
