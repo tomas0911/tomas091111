@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Sullivan",
+  "age": 24,
+  "address": {
+    "street": "Lavab Plaza",
+    "city": "Nuwwasip",
+    "state": "WY",
+    "zip": "46747"
+  },
+  "contact": {
+    "phone": "(908) 247-8873",
+    "servicePhone": "800553397"
+  },
+  "birthday": "1959-07-16T04:32:27.739Z",
+  "ip": "187.69.143.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Tastoj hupesri fu cudzupu evufoda pid zu we bavamve hosu zokhuet cevsid ne ju parri begas nu. Jemtud rurjac oceona ehufiab ofogutnem kenu doz jejaz kaw uteijo mac men zijazma. Opi jiv ade pet hoibuca turpel hu zoc me wirma guati wep zirapme juhda aji.",
+    "bio": "Du ucoru vugserbuc badgoub bolsonwe hufo gus ebili demebaw wolrusor ojo vuoba fimmid gizesezeg etgoobu pihude pagu. Wosuhoni uv wep cijos pilru vikufos totnawu asu raspi emereka geikowi tutef ho mojaccu cikavepow. Juj bubho fi apuomavoz focreok wo mepobkun mujem nurcacbi bup wunju epduwi."
+  },
+  "apiKey": "c27aef456d7b4711989b56bfbb7dcdc36a66dd52a1969fd44bbc731c4ea49f9e",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
