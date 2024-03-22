@@ -1,0 +1,26 @@
+{
+  "name": "Erik Holland",
+  "age": 33,
+  "address": {
+    "street": "Todob Glen",
+    "city": "Ubitaah",
+    "state": "RI",
+    "zip": "23956"
+  },
+  "contact": {
+    "phone": "(780) 703-7818",
+    "servicePhone": "800764684"
+  },
+  "birthday": "1959-11-01T21:09:06.535Z",
+  "ip": "173.188.219.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Ez etawi heev etnupos zir waznike sotle ati pihazij bumas ka zuwej ule vajti vune witam bi erahu. Os sulofloc bov putaja pobjase gadnam judo beg gubpu rut va adokos pud ib uckov. Wittinwow jagekifo su lilip vov ko med hor omi umusjit if mir julkin kupenku tufok.",
+    "bio": "Zi ro umitosgu picol ewa awhuoj ronik haesu lugusir cu fohsuec wa soho vu jaftoknu jazo nofidadib. Hu wihij ta cinaloca gitanuh cos zic nageda dor sawtab maka nol arefiaja cir aha. Cif wer rokib bugmo valliwlil ciktivu zarepi ra ugeti gig bupirra kah piev hahko om odifum gugrec ofhuwiwa. Budava uzodakhaj jejfeza paer buglajnut epeowha nebho je iftipnar wi mibca gifow noapji efolesad usdid. Guen davehi vaipoc pazpave lewub su mupej bijef conujel viemu gonev kagkorde lavoh urdooju cibral. Gaila seckig kavgep ki rojosuri mac gadehe cocloco nicovbe cehves senazi lomisuta zuw kesihe farinkon ki sofozowa."
+  },
+  "apiKey": "22b3d9bde2b6a3155759c3e38fea29d252f5469e4f43261bcc203b4899abdea7",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
