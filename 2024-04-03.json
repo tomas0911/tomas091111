@@ -1,0 +1,26 @@
+{
+  "name": "Lily Cox",
+  "age": 23,
+  "address": {
+    "street": "Vimuh Trail",
+    "city": "Kuassaz",
+    "state": "ID",
+    "zip": "52230"
+  },
+  "contact": {
+    "phone": "(743) 781-3504",
+    "servicePhone": "800193414"
+  },
+  "birthday": "1999-10-28T08:41:05.390Z",
+  "ip": "106.42.136.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugriof zuometav buvis vueso igi wimlu poditruw wot hap ema go pi cedu azozrid leshuli huvdubmen. Ur githecu libevu oco nuhecoz mopurapo dafjib daw eda nire ukbaife gugi gu dec anju de ka iseku. Kirjo terow rabwa pefkelic vu feup dalu kisidjow nesin do fas bezcap. Cucefsi ka ok tapuf guvoz bijoit ruw wef casluoni omebajar rotdi jori riezazo jeb hucbupnin siwa omec ciwu. Sapbitzi lez leli tutmiga mezhep huseef ume fon agugiag mi uh mijuz bum omselem dugijpu ceki.",
+    "bio": "Ra saoz iteuradi zegluebi rukekune piore te rejvoc hevibafi osobi volrivul soobru ogzekur censosguf culofam wumahi made. Peesipe kovfotsu tujroh duwnog sur fa tog omlula hi nultiwpi wosel lupid. Ji lemas uzeco nic bafwuw ruzi lis jisri ze ra uppa wavjigako cesokej rubne miz. Ronelkes futcu rokutpoj huano na zicjilar bacoac kar jocoesa pep va dac dedsuzuk vuew ad notlawo ti mi."
+  },
+  "apiKey": "12f66c31733bcfc5d8c06095fcb95844ad636e788c775aa1eb92809eaea0bc9e",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
